@@ -12,6 +12,13 @@ Rust é uma linguagem de programação **compilada**, de **tipagem estática for
 
 ---
 
+Página do Curso
+www.ricardodarocha/pt/rust
+Masterclass
+www.ricardodarocha/pt/masterclass
+
+--- 
+
 # Motivação
 
 Rust foi projetada para o desenvolvimento de sistemas modernos que exigem:
